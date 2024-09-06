@@ -4,5 +4,6 @@
 // ----------------------------------------->><<-------------------------------------------------------------------
 
 // Resposta:
-
-// Como esta definido que posso ligar o interruptor quantas vezes quiser, e não foi dito que não pode ligar todos interruptores ao mesmo tempo, eu ligaria os 3 de uma vez e depois iria até as salas.
+ 
+// Eu ligaria o interruptor A e deixaria por alguns minutos. Depois ligaria a B e iria até a primeira sala, ai teriamos 3 opções: Caso esteja acessa é B, caso esteja deligada mas a lmapada esteja quente é A se estiver desligada e fria é C
+// E com essa logica iria para a segunda sala e com isso resolveria o problema.
